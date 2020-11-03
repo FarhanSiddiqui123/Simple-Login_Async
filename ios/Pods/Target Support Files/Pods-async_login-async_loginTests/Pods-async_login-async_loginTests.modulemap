@@ -1,0 +1,6 @@
+module Pods_async_login_async_loginTests {
+  umbrella header "Pods-async_login-async_loginTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
